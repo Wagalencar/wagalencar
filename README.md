@@ -17,12 +17,12 @@
 <img align="center" alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="angularjs" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
 <img align="center" alt="PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div><br/>
+
    
-</div>
-     
 - 🔭 Não trabalho na área de TI ainda, mas sou apaixonado por ela e busco a oportunidade de me inserir ne-la;
 - 🌱 Estudando JavaScript, AngularJs, React Native, Java;
 - 🤔 Diretórios eficientes no qual me ajude a ter uma melhor escrita de códigos;
 - 📫 Contate-me no email: wagalencar1998@outlook.com;
 - 😄 Pronouns: Ele/ dele.
+
